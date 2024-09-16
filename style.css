@@ -1,0 +1,26 @@
+.brown {
+    text-align: center;
+    background-color: #ff7f50;
+}
+
+.box{
+    border-style:solid;
+    padding: 25px;
+}
+button {
+    background-color: rgb(133, 133, 16)
+}
+.lasagna {
+    color: black;
+    padding: 25px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#press {
+    margin: 20px auto;
+    width: 300px;
+}
+.image {
+    border-style:double;
+    width: 100%;
+}

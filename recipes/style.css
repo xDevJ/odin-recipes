@@ -1,0 +1,37 @@
+.open {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+button {
+    color: white;
+    background-color: red;
+}
+.name {
+    color: white;
+}
+p {
+    background-color: red;
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.first {
+    border: 1px solid black;
+    display: inline-block;
+    border-style:dashed;
+}
+.second {
+    border: 1px solid black;
+    display: inline-block;
+    border-style:dashed;
+}
+.third {
+    border: 1px solid black;
+    display: inline-block;
+    border-style:dashed;
+}
+#forth {
+    border: 1px solid black;
+    display: inline-block;
+    border-style:dashed;
+}
